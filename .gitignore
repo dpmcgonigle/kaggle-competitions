@@ -5,6 +5,7 @@
 # Directories #
 ###############
 lyft
+.ipynb_checkpoints
 
 # Compiled source #
 ###################
